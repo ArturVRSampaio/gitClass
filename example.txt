@@ -1,4 +1,5 @@
 total 8
 drwxrwxr-x 2 bypass bypass 4096 jun 29 20:25 .
-drwxr-xr-x 5 bypass bypass 4096 jun 29 20:24 ..
+OOOOOPS....
 -rw-rw-r-- 1 bypass bypass    0 jun 29 20:25 example.txt
+
